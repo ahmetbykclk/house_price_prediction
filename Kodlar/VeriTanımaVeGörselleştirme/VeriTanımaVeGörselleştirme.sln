@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "VeriTanımaVeGörselleştirme", "VeriTanımaVeGörselleştirme\VeriTanımaVeGörselleştirme.pyproj", "{CF4482B6-634B-4F2A-8C8B-C905B12F4026}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF4482B6-634B-4F2A-8C8B-C905B12F4026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4482B6-634B-4F2A-8C8B-C905B12F4026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7743A07-044C-4759-B511-34D5A5108EEE}
+	EndGlobalSection
+EndGlobal

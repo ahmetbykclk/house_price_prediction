@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KonutVerileriniÇekme", "KonutVerileriniÇekme\KonutVerileriniÇekme.pyproj", "{3A0A08D7-03F3-47D5-BC47-DECCF54FBE4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A0A08D7-03F3-47D5-BC47-DECCF54FBE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0A08D7-03F3-47D5-BC47-DECCF54FBE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15BC4362-71D7-4C83-A0EF-AD4060095263}
+	EndGlobalSection
+EndGlobal
