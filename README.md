@@ -1,8 +1,8 @@
-Introduction
+INTRODUCTION
 
 In this project, we take the input of the desired house’s properties, such as its area, number of rooms, and the floor it is located on. Subsequently, a machine learning model is developed using this input data to estimate the price, which is then displayed to the users as an output.
 
-Steps Involved
+STEPS INVOLVED
 
 1- Importing house price data
 
@@ -16,7 +16,7 @@ Steps Involved
 
 6- Creating an application interface
 
-Importing House Price Data
+IMPORTING HOUSE PRICE DATA
 
 I used Selenium for scraping data from the Emlakjet website. The data was scraped from Kapaklı/Tekirdağ/Turkey. The scraped data was saved to an Excel file.
 
@@ -35,25 +35,27 @@ Floor Location
 Heating Type
 Price
 
-Data Visualization
+DATA VİSUALIZATION
 
 I used the Matplotlib library for data visualization. 
 
-Data Labeling
+DATA LABELING
 
 We will use the scikit-learn (sklearn) library for preprocessing our data. We need to label our data for the machine learning model.
 
-Creating a Machine Learning Model
+CREATING A MACHINE LEARNING MODEL
 
 For the machine learning model, I used the XGBoost algorithm. The properties I utilized include Gross Square Meter, Age of the Building, Number of Floors of the Building, Net Square Meter, Number of Rooms, Floor Location, and Heating Type. With these properties, our machine learning model will predict the appropriate price for the house.
+
 ![Actual predict plot](https://github.com/ahmetbykclk/house_price_prediction/assets/64368104/96e7a779-4b4e-45b0-bac0-e29e89b76a2b)
 
-Explaining The Model With Shap Values
+EXPLAINING THE MODEL USING SHAP VALUES
 
 Using Shap, we can analyze our model and visualize its behavior. With this capability, we can effectively explain our machine learning model.
+
 ![ShapFeatureImportance](https://github.com/ahmetbykclk/house_price_prediction/assets/64368104/baf4c7d7-a3c6-4b65-9a4c-90ca329782c6)
 
-Creating an Application Interface
+CREATING AN APPLICATION INTERFACE
 
 For the interface of our application, I used the Tkinter library from Python. After completing the interface, we should use our algorithm to calculate and predict the price for this house.
 
