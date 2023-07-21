@@ -63,3 +63,5 @@ For the interface of our application, I used the Tkinter library from Python. Af
 ![App-AfterUse](https://github.com/ahmetbykclk/house_price_prediction/assets/64368104/2861b378-16c7-4b65-90d6-9dbb9d1756b2)
 
 I aimed to create a simple interface, but you can enhance it to make it more visually appealing and user-friendly.
+
+If you want to learn more about this project, you can visit my Medium story. Here is the link: https://medium.com/@ahmetyasin1258/house-price-prediction-with-machine-learning-81bfc471b936.
